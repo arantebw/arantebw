@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I'm Billy a computer programmer, open-source advocate, web developer, and a [tech blogger](https://techblogs.gatsbyjs.io) -- still a work-in-progress.
+Hi, I'm Billy a computer programmer, open-source advocate, web developer, and a [tech blogger](https://techblogs.gatsbyjs.io).
 
 ## GitHub Stats
 
