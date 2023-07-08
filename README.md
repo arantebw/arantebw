@@ -4,4 +4,4 @@ I'm a computer programmer; I contribute to open-source software projects; curren
 
 ## My [roadmap.sh](https://roadmap.sh) progress badge
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/643a07b111a85692d89468e1?variant=dark&roadmaps=computer-science%2Cfrontend%2Cbackend%2Ccyber-security)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/643a07b111a85692d89468e1?variant=dark&roadmaps=computer-science%2Cfrontend%2Cbackend%2Cdevops)](https://roadmap.sh)
