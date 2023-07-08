@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Billy!
 
 <!--
 **arantebw/arantebw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/643a07b111a85692d89468e1?variant=dark&roadmaps=computer-science%2Cfrontend%2Cbackend%2Ccyber-security)](https://roadmap.sh)
